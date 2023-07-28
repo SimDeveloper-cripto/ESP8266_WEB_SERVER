@@ -16,5 +16,5 @@ Feel free to modify the code as you like in order to add new features to the pag
 ## Get Started and References
 
 If you don't know what Arduino is: https://docs.arduino.cc/ <br />
-This is a simple and effective guide I followed that helped me a lot to get everything working: https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/ <br />
+To get started, follow this simple and effective guide: https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/ <br />
 For reference, my ESP8266 was recognized by the Arduino IDE as "NodeMCU (ESP-12E Module)".
